@@ -7,7 +7,11 @@ public class Math_Operations {
         System.out.println(2-2);
         System.out.println(2*2);
         System.out.println(2/2);
-        //System.out.println(2/0);
+        System.out.println(20/0.01);
+        System.out.print(20/0.01);
+        System.out.print(80/0.01);
+        System.out.println(5-2);
+
 
     }
 }
