@@ -8,5 +8,13 @@ public class Lab025_Logical_Operators {
         System.out.println(a);
         System.out.println(!a);
         System.out.println(!!a);
+
+        boolean  b= true;
+        System.out.println(b);
+        System.out.println(!b);
+        System.out.println(!!b);
+
+        boolean c = true || false; // || -> or operator
+        System.out.println(c);
     }
 }
