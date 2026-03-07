@@ -11,12 +11,13 @@ public class Lab018_Char_Literals {
         char c7 = ' '; //blank space
         char c8 = ';';
         char c9 = '(';
-
+        char c10 = '\u1f90'; //smily
 //        Escape Char
         char new_line = '\n';
         char tab_line = '\t';
         char back_space = '\b';
         char carriage_return = '\r';
+
 
         System.out.println("RohitPatil");
         System.out.println("Rohit Patil");
@@ -24,6 +25,10 @@ public class Lab018_Char_Literals {
         System.out.println("Rohit"+tab_line+"Patil");
         System.out.println("Rohit"+back_space+"Patil");
         System.out.println("Rohit"+carriage_return+"Patil");
+
+        System.out.println("this is 1st line\nthis is 2nd line\nthis is 3rd line");
+
+        System.out.println(c10);
 
 
 
