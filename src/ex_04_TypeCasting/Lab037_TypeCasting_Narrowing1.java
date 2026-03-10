@@ -9,8 +9,7 @@ public class Lab037_TypeCasting_Narrowing1
         short s1 = (short) phone_no;
 
         System.out.println(s1);
-        System.out.println(phone_no);
-
+//        System.out.println(phone_no);
 
     }
 }
