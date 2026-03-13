@@ -1,4 +1,4 @@
-package ex_06_Increament_Decrement_Operator;
+package Tasks;
 
 public class Lab050_task_Pre_Post_Inc_op {
 

@@ -1,4 +1,4 @@
-package ex_07_If_condition;
+package Tasks;
 
 public class Lab056_task_if_else_Odd_Even_CLI {
 

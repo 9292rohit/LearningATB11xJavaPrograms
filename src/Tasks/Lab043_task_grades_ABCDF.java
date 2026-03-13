@@ -1,4 +1,4 @@
-package ex_05_Ternary_Operator;
+package Tasks;
 
 public class Lab043_task_grades_ABCDF
 {

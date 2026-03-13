@@ -1,4 +1,4 @@
-package ex_06_Increament_Decrement_Operator;
+package Tasks;
 
 public class Lab051_task_User_Input_Max_value {
 

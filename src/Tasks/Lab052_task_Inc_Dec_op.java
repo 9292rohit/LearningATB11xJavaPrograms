@@ -1,4 +1,4 @@
-package ex_06_Increament_Decrement_Operator;
+package Tasks;
 
 public class Lab052_task_Inc_Dec_op {
     public static void main(String[] args) {
