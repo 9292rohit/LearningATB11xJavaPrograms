@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Lab051_task_User_Input_Max_value {
+public class Lab051_task_CLI_User_Input_Max_value {
 
     public static void main(String[] args) {
         String Name = args[0];
