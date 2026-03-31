@@ -1,0 +1,19 @@
+package ex_15_Arrays;
+
+import java.util.Scanner;
+
+public class Lab109_2d_Multiplication_table {
+    public static void main(String[] args){
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the size");
+        int size = scanner.nextInt();
+
+        for (int i=0; i < size; i++){
+            for (int j=0; j< size; j++){
+                System.out.print(i + "x" + j + "=" + (i*j) + "\t\t");
+            }
+            System.out.println();
+        }
+    }
+}
